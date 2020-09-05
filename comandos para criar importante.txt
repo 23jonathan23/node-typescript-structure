@@ -1,0 +1,3 @@
+npx tsc --init - criar tsconfig.json
+npx eslint --init - Configurar eslint - obs "habilitar plugin eslint"
+npx jest --init - Configurar jest
