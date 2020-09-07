@@ -1,0 +1,3 @@
+Aqui fica a minha camada de comunicação(infra) 
+a mesma coisa do respositories porem para outros serviços externos
+segue a mesma logica do respositories
